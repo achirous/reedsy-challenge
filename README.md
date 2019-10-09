@@ -28,6 +28,6 @@ In a JavaScript program more often than not you’ll have to use http requests t
 
 ## 3. Styling
 
-Navigate to reedsy-challenge-styling/q3.html
+Navigate to **reedsy-challenge-styling/q3.html**
 
 ## 4. SPA
