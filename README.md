@@ -3,7 +3,7 @@
 ## 1. About you
 
 While working for an e-learning company I was tasked with creating a tool that could be used to create/edit questions for the online tutorials. This tool significantly sped up the content creation process as it was not required anymore to manually edit the question html. The following features were implemented:
-* Edit the question’s text.
+* edit the question’s text.
 * add/remove/edit/reorder answers.
 * select from a series of question templates which determine the general layout of the question.
 * select the correct answers.
