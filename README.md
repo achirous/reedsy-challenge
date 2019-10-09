@@ -35,7 +35,7 @@ In a JavaScript program more often than not you’ll have to use http requests t
 
 ## 3. Styling
 
-Open file **reedsy-challenge-styling/q3.html**.
+Open file **reedsy-challenge-styling/q3.html** using a browser of your choosing.
 
 ## 4. SPA
 
