@@ -19,7 +19,7 @@ I like working on dynamic and complex front end systems as I enjoy designing UX 
 
 ### 2.2. Which are your favorite features of HTML5? How have you used them before? 
 
-I like a lot of the new input types like the color and datetime as they are very useful for simple forms. I also really like the introduction of svgs for drawing scalable graphs. I have used svgs in the past in conjunction with ASP.NET Razor for creating dynamic radial charts for displaying different kinds of metrics. 
+I like a lot of the new input types like the color and datetime as they are very useful for creating simple forms. I also really like the introduction of svgs for drawing scalable graphs. I have previously used svgs in conjunction with ASP.NET Razor for creating dynamic radial charts that displayed different kinds of metrics. 
 
 ### 2.3. Explain the difference between creating a DOM element setting innerHTML and using createElement. 
 
@@ -27,7 +27,7 @@ With createElement you can keep a reference to the node you have just added wher
 
 ### 2.4. Compare two-way data binding vs one-way data flow. 
 
-With two-way data binding the information flows both ways between the data source and the UI element that displays it. So essentially the user could edit the data from the UI element. However, with one-way data flow the data is readonly which means that the user can’t edit the data displayed on the UI element. 
+With two-way data binding the information flows both ways between the data source and the UI element that displays it. This means that the user could edit the data from the UI element. However, with one-way data flow the data is readonly which means that the user can’t edit the data displayed on the UI element. 
 
 ### 2.5. Why is asynchronous programming important in JavaScript? 
 
