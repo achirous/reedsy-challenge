@@ -32,7 +32,7 @@ Open file **reedsy-challenge-styling/q3.html**.
 
 ## 4. SPA
 
-First navigato to **server** open a terminal and follow the steps below:
+First navigate to **server** open a terminal and follow the steps below:
 * run **npm install**
 * run **npm run server**
 
