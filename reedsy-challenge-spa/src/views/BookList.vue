@@ -19,9 +19,9 @@
                 <span class="upvoted">Upvoted {{book.upvotes}} times</span>
               </div>
             </div>
-            <div class="book-image">
+            <router-link :to="{name: 'bookPage', params: {slug: book.slug}}" class="book-image">
               <img v-bind:src="book.cover">
-            </div>
+            </router-link>
           </div>
         </div>
       </div>
