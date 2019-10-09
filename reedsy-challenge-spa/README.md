@@ -5,7 +5,7 @@
 npm install
 ```
 
-### Start project
+## Start project
 ```
 npm start
 ```
