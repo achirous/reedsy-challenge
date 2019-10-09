@@ -28,6 +28,8 @@ In a JavaScript program more often than not you’ll have to use http requests t
 
 ## 3. Styling
 
-Navigate to **reedsy-challenge-styling/q3.html**
+Open file **reedsy-challenge-styling/q3.html**.
 
 ## 4. SPA
+
+Navigate to **reedsy-challenge-spa** and follow readme instructions.
