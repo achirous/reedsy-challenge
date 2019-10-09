@@ -15,7 +15,7 @@ While working for an e-learning company I was tasked with creating a tool that c
 
 ### 2.1 What kind of front end projects do you enjoy working on? Why?
 
-I like working on dynamic and complex front end systems as I enjoy designing UX that makes user interaction as simple and intuitive as possible. This kind of work triggers my creativity and I find it very satisfying. 
+I like working on dynamic and complex front end systems as I enjoy designing and implementing UX that makes user interaction as simple and intuitive as possible. This kind of work triggers my creativity and I find it very satisfying. 
 
 ### 2.2. Which are your favorite features of HTML5? How have you used them before? 
 
