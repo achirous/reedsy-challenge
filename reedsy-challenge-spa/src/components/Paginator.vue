@@ -46,23 +46,23 @@ export default class Paginator extends Vue {
             li.paginator-item{
                 
                 padding: 10px 15px;
-                color: #7d7d7d;
+                color: #c3a602;
                 font-weight: bold;
                 cursor: pointer;
 
                 &.page{
-                    border: 2px solid #7d7d7d;
+                    border: 2px solid #c3a602;
                     border-radius: 50%;
                 }
 
                 &.active{
-                    background-color: #7d7d7d;
+                    background-color: #c3a602;
                     color: #ffffff;
                 }
 
                 &.disabled{
-                    border-color: #c9c9c9;
-                    color: #c9c9c9;
+                    border-color: #cac39b;
+                    color: #cac39b;
                 }
 
                 &.previous, &.next{
